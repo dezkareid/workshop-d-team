@@ -14,7 +14,7 @@
       "name": "test-tools",
       "version": "0.0.1",
       "description": "Test tools",
-      "source": ".plugins/test-tools"
+      "source": "./plugins/test-tools"
     }
   ]
 }
