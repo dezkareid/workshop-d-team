@@ -1,0 +1,13 @@
+{
+  "name": "workshop-d-team",
+  "owner": {
+    "name": "Joel Humberto Gomez Paredes",
+    "email": "elmaildeldezkareid@gmail.com",
+    "url": "https://github.com/dezkareid/"
+  },
+  "metadata": {
+    "description": "Workshop D Team",
+    "version": "0.0.1"
+  },
+  "plugins": []
+}
